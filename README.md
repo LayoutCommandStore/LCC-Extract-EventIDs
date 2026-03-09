@@ -11,7 +11,7 @@ Handles both file formats:
 
 ```bash
 python3 lcc_extract_eventids.py <backup1.txt> [backup2.txt ...]
-python3 .lcc_extract_eventids.py *.txt
+python3 lcc_extract_eventids.py *.txt
 ```
 
 ## Filter Options
